@@ -1,6 +1,5 @@
-afsasf<<<<<<< HEAD
-fsadsaadsssafsafsafsadsadsadsadsadsafsafsaf# basadfafa !!!!!!
-=======
+afsasffsadsaadsssafsafsafsadsadsadsadsadsafsafsaf# basadfafa !!!!!!
+
 sadsadfsaasfdsaadsssafsafsafsadsadsadsadsadsafsafsaf# basadfafa !!!!!!
 
 >>>>>>> origin/main
